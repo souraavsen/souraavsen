@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourav-sen-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourav-sen-gupta" height="30" width="40" /></a>
-<a href="https://discord.gg/souravsengupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="souravsengupta" height="30" width="40" /></a>
+<a  href="https://linkedin.com/in/https://www.linkedin.com/in/sourav-sen-gupta" target="blank"><img style="margin: 2px 5px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourav-sen-gupta" height="30" width="40" /></a>
+<a href="https://twitter.com/souraavsen1" target="blank"><img style="margin: 2px 5px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souraavsen1" height="30" width="40" /></a>
+<a href="https://discord.gg/souravsengupta" target="blank"><img style="margin: 2px 5px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="souravsengupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
